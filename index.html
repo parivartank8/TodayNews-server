@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>bouncing ball</title>
+</head>
+<body>
+    <div>
+   <ul>
+        
+        <li>
+        <li>
+        <li>
+        <li>
+        <li>
+    
+</html>
+<style>
+    *{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+ul{
+    display: flex;
+    border-bottom: 10px solid black;
+
+}
+
+li{
+    width: 50px;
+    height: 50px;
+    list-style: none;
+    background-color: black;
+    margin: 0 10px;
+    border-radius: 50%;
+    animation: bouncy 1s linear infinite;
+}
+
+
+@keyframes bouncy
+{
+    0%
+    {transform: translateY(0);}
+    50%
+    {transform: translateY(-150px);}
+    100%
+    {transform: translateY(0);}
+}
+
+
+ul li:nth-child(1)
+{
+    animation: bouncy .5s linear infinite;
+    background-color: red;
+}
+ul li:nth-child(2)
+{
+    animation-duration: .8s;
+    background-color: aqua;
+}
+li:nth-child(3)
+{
+   
+    background-color: yellow;
+    animation: bouncy .6s infinite
+}
+li:nth-child(4)
+{
+    animation-duration: .7s;
+    background-color: rgb(244, 22, 252);
+}
+li:nth-child(5)
+{
+    animation-duration: .9s;
+    background-color: blue;
+}
+
+</style>
