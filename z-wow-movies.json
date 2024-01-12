@@ -2,9 +2,9 @@
  
     {
       "_id": 2015,
-      "titleImg": "https://drive.google.com/uc?id=1x7CIxpNldkFq0OK2huvZjOG8eb8178HQ",
-      "bgImg": "https://drive.google.com/uc?id=1nPAG9ypXRGrOxiol7F5HmhOFZrSaey_L",
-      "previewImg": "https://drive.google.com/uc?id=1Gkqt7honaP15jioQmHg6ffB8Z6S6SuSU",
+      "titleImg": "https://wowmovie-server.netlify.app/images/the-covenant-title.png",
+      "bgImg": "https://wowmovie-server.netlify.app/images/bg-the-covenant.jpeg",
+      "previewImg": "https://wowmovie-server.netlify.app/images/the-covenant.jpg",
       "video": "https://www.youtube.com/embed/02PPMPArNEQ",
       "title": "The Covenant",
       "fullTitle": "Guy Ritchie's The Covenant",
@@ -24,9 +24,9 @@
 
     {
         "_id": 2014,
-        "titleImg": "https://drive.google.com/uc?id=1fzTWHm79j2LGJuSMz7T_uY-YYwbk8sBb",
-        "bgImg": "https://drive.google.com/uc?id=1p0bWTNZGLLo5ZO3xUEiDX9LYnfkGU8-N",
-        "previewImg": "https://drive.google.com/uc?id=1exlXtBkndcXR_gJWCoornul5mj2Af-Yl",
+        "titleImg": "https://wowmovie-server.netlify.app/images/the-tank-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-the-tank.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/the-tank.jpeg",
         "video": "https://www.youtube.com/embed/23GmhsmrCIo",
         "title": "The Tank",
         "fullTitle": "The Tank",
@@ -46,9 +46,9 @@
       {
 
         "_id": 2013,
-        "titleImg": "https://drive.google.com/uc?id=1NPtXNZYTV6lM39b0PVtZiq1zMDGgFUNc",
-        "bgImg": "https://drive.google.com/uc?id=1IAlpQLMvpKGz3ymNx3lpBulWToV9cUvg",
-        "previewImg": "https://drive.google.com/uc?id=16rAQrvEmTitO06cbAmY77w-pgtQiV0-f",
+        "titleImg": "https://wowmovie-server.netlify.app/images/the-black-demon-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-the-black-demon.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/the-black-demon.jpg",
         "video": "https://www.youtube.com/embed/z1xJAyVKAPY",
         "title": "The Black Demon",
         "fullTitle": "The Black Demon",
@@ -69,9 +69,9 @@
 
       {
         "_id": 2012,
-        "titleImg": "https://drive.google.com/uc?id=1hO5Yn_bYxmac25CXXbPiAzC0RutsT4zC",
-        "bgImg": "https://drive.google.com/uc?id=1mYjLHQaLpT2kqh3rrFSifh_PJJS5vPM9",
-        "previewImg": "https://drive.google.com/uc?id=1N-qRM7b-If2gl1z-YKzaBZCTGiH1aQva",
+        "titleImg": "https://wowmovie-server.netlify.app/images/the-65-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-65.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/65.jpeg",
         "video": "https://www.youtube.com/embed/bHXejJq5vr0",
         "title": "Sixty Five",
         "fullTitle": "Sixty Five",
@@ -92,9 +92,9 @@
 
       {
         "_id": 2011,
-        "titleImg": "https://drive.google.com/uc?id=12bUN8O1PWOKgyI5onNCm7H7kc_WXlL_y",
-        "bgImg": "https://drive.google.com/uc?id=1mDzH1gKJoI33euvqIFcVNTpcy_wiUDSm",
-        "previewImg": "https://drive.google.com/uc?id=1sYdOUYJPuWhJ4c_EXUo-VDtoWoR7GlW4",
+        "titleImg": "https://wowmovie-server.netlify.app/images/the-little-mermaid-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images//bg-little-mermaid.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/the-little-mermaid.jpeg",
         "video": "https://www.youtube.com/embed/kpGo2_d3oYE",
         "title": "The Little Mermaid",
         "fullTitle": "The Little Mermaid",
@@ -115,9 +115,9 @@
 
       {
         "_id": 2010,
-        "titleImg": "https://drive.google.com/uc?id=1EirRnVlgd53Mmg1Tv3AhDgyVRB_HyECC",
-        "bgImg": "https://drive.google.com/uc?id=1M6Ro2wEgDqvV_PLzCTBk0U9CIyQKVwm2",
-        "previewImg": "https://drive.google.com/uc?id=19qZxY9TdRGbeSeE3flCRGdUxIFCpcPu-",
+        "titleImg": "https://wowmovie-server.netlify.app/images/heart-of-stone-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-heart-of-stone.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/heart-of-stone.jpg",
         "video": "https://www.youtube.com/embed/XuDwndGaCFo",
         "title": "Heart of Stone",
         "fullTitle": "Heart of Stone",
@@ -138,9 +138,9 @@
 
       {
         "_id": 2009,
-        "titleImg": "https://drive.google.com/uc?id=1NOs4wWvMj55MGugVTOWSN3m6MRe7eoqf",
-        "bgImg": "https://drive.google.com/uc?id=1csxQzmZ09GrsPQ_NuHOAmS16PxWCncrl",
-        "previewImg": "https://drive.google.com/uc?id=1zXsWpojHMrDC3wkETjYr89obQEo97iGv",
+        "titleImg": "https://wowmovie-server.netlify.app/images/peter-pan-and-wendy-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-peter-pan-and-wendy.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/peter-pan-and-wendy.jpg",
         "video": "https://www.youtube.com/embed/9Ji5U2sTlLU",
         "title": "Peter Pan & Wendy",       
         "fullTitle": "Peter Pan & Wendy",       
@@ -161,9 +161,9 @@
 
       {
         "_id": 2008,
-        "titleImg": "https://drive.google.com/uc?id=1-XkzwUaF8ANMI2nap15JVF2oXaifBaV-",
-        "bgImg": "https://drive.google.com/uc?id=1Gw6hyCyC3oOdViJNaxD9AoV5-2BzVbi6",
-        "previewImg": "https://drive.google.com/uc?id=1z1KLdjj3lpVwhY3fG9Ep80xS-uWgxqdF",
+        "titleImg": "https://wowmovie-server.netlify.app/images/no-hard-feelings-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-no-hard-feelings.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/no-hard-feelings.jpeg",
         "video": "https://www.youtube.com/embed/7psP7xBEa28",
         "title": "No Hard Feelings",
         "fullTitle": "No Hard Feelings",
@@ -184,9 +184,9 @@
 
       {
         "_id": 2007,
-        "titleImg": "https://drive.google.com/uc?id=1ikN3s7kN7mTboEzEw8Nwke4w8RoPdy1V",
-        "bgImg": "https://drive.google.com/uc?id=1APcPb2pxFlbcKajlsx3x5RdBxQ78FQGV",
-        "previewImg": "https://drive.google.com/uc?id=1wXLuoInaOl6gs52WXM7M27K0FPTGuh3_",
+        "titleImg": "https://wowmovie-server.netlify.app/images/assassin-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-assassin.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/assassin.jpg",
         "video": "https://www.youtube.com/embed/qiUATuIhUw8",
         "title": "Assassin",
         "fullTitle": "Assassin",
@@ -207,9 +207,9 @@
 
       {
         "_id": 2006,
-        "titleImg": "https://drive.google.com/uc?id=1izcfaK2pNpBYsUEf5AA9yCG8gtAyrBQi",
-        "bgImg": "https://drive.google.com/uc?id=1v5lK11ClUuhmb-yZhE5t5tHVLqDktyPp",
-        "previewImg": "https://drive.google.com/uc?id=1UpNnMd1ji16YYVQLs1MycKBzb63z4Vug",
+        "titleImg": "https://wowmovie-server.netlify.app/images/ape-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-ape.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/ape.jpg",
         "video": "https://www.youtube.com/embed/dtyPh5yCoWg",
         "title": "Ape vs. Mecha Ape",
         "fullTitle": "Ape vs. Mecha Ape",
@@ -230,9 +230,9 @@
 
       {
         "_id": 2005,
-        "titleImg": "https://drive.google.com/uc?id=1mDwf-L1ZL9OUgkc_Nbtr_Z9QeYsIDRrj",
-        "bgImg": "https://drive.google.com/uc?id=1USIXkfTlLDthopiA9QDag4jduyQiB_g7",
-        "previewImg": "https://drive.google.com/uc?id=1MI7a20SJM74hR9BvlHyKQygrzMGOVS_G",
+        "titleImg": "https://wowmovie-server.netlify.app/images/beautiful-disaster-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-beautiful-disaster.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/beautiful-disaster.jpeg",
         "video": "https://www.youtube.com/embed/nvaenzyXl4o",
         "title": "Beautiful Disaster",
         "fullTitle": "Beautiful Disaster",
@@ -253,9 +253,9 @@
 
       {
         "_id": 2004,
-        "titleImg": "https://drive.google.com/uc?id=10avNvckAHe8RpXRRYsbXMFuJ_E415oXS",
-        "bgImg": "https://drive.google.com/uc?id=1hYF60OZvsC1A4aQ1axcVFshAEnri84AY",
-        "previewImg": "https://drive.google.com/uc?id=1175uStmX3RA6y6oxkXwq2kxMbsujxO7H",
+        "titleImg": "https://wowmovie-server.netlify.app/images/jailer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-jailer.jpegY",
+        "previewImg": "https://wowmovie-server.netlify.app/images/jailer.jpg",
         "video": "https://www.youtube.com/embed/lshAqOT7BB8",
         "title": "Jailer",
         "fullTitle": "Jailer",
@@ -276,9 +276,9 @@
 
       {
         "_id": 2003,
-        "titleImg": "https://drive.google.com/uc?id=1seXLa6OP6VQ5SGynJWnPEYM6r8sor_rW",
-        "bgImg": "https://drive.google.com/uc?id=1h1u7nfwxbm3aPCJ67bevYKN-cbkvaiNh",
-        "previewImg": "https://drive.google.com/uc?id=1Dz3WeDfRTOlHcYEo1QOa2Y5jTNP2qGSr",
+        "titleImg": "https://wowmovie-server.netlify.app/images/fast-x-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-fast-x.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/fast-x.jpeg",
         "video": "https://www.youtube.com/embed/32RAq6JzY-w",
         "title": "Fast X",
         "fullTitle": "Fast X",
@@ -300,9 +300,9 @@
 
       {
         "_id": 2002,
-        "titleImg": "https://drive.google.com/uc?id=1k9vx_zdW3NHIhyieVqswieipjXx7qcZn",
-        "bgImg": "https://drive.google.com/uc?id=1CCsK4nTmlGGsdJ-5bgyYw2X-J2BCZpES",
-        "previewImg": "https://drive.google.com/uc?id=1xxiPtD6asIqSsCYKgntrLtkTsMzZknoW",
+        "titleImg": "https://wowmovie-server.netlify.app/images/meg-2-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-meg-2.jpeg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/meg-2.jpg",
         "video": "https://www.youtube.com/embed/dG91B3hHyY4",
         "title": "Meg 2",
         "fullTitle": "Meg 2: The Trench",
@@ -325,9 +325,9 @@
 
       {
         "_id": 2001,
-        "titleImg": "https://drive.google.com/uc?id=10zSdYvz8uuQs-R7y5vSJdsFxhezgDPbE",
-        "bgImg": "https://drive.google.com/uc?id=1zMOr-jIxagj-HC1MJK2P_mh3f-8YYqzT",
-        "previewImg": "https://drive.google.com/uc?id=1dnqM3nMkeXqwfOzK69KLCAAAevsuXMfc",
+        "titleImg": "https://wowmovie-server.netlify.app/images/transformer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/bg-transformer.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/transformer.jpg",
         "video": "https://www.youtube.com/embed/TxPNrwbuxN0",
         "title": "Transformers",
         "fullTitle": "Transformer: Rise of the Beast",
@@ -348,9 +348,9 @@
 
       {
         "_id": 2000,
-        "titleImg": "https://drive.google.com/uc?id=1Np_gWv6zNCLdY47VGgdLwsi2gNA_fPpm",
-        "bgImg": "https://drive.google.com/uc?id=1iw23ZQ4Bm75bZ60oAQe5-9foyQwSHbGX",
-        "previewImg": "https://drive.google.com/uc?id=1NLD7Ru4cozNg-HngduWAKTkJ0sodizDn",
+        "titleImg": "https://wowmovie-server.netlify.app/images/transformer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/transformer%201%20bg.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/transformer%201.jpg",
         "video": " https://www.youtube.com/embed/v8ItGrI-Ou0?si=MFyaowL13oZdeIM-",
         "title": "Transformers",
         "fullTitle": "Transformer 1",
@@ -372,9 +372,9 @@
 
       {
         "_id": 1999,
-        "titleImg": "https://drive.google.com/uc?id=1Np_gWv6zNCLdY47VGgdLwsi2gNA_fPpm",
-        "bgImg": "https://drive.google.com/uc?id=1023_f1YG9jkEia4Bpy49fvW8j4m1iBex",
-        "previewImg": "https://drive.google.com/uc?id=1-zTSZ57e1eD-BWjai8R7d2SExysEC_9s",
+        "titleImg": "https://wowmovie-server.netlify.app/images/transformer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/transformer%202%20bg.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/transformer%202.jpg",
         "video": "https://www.youtube.com/embed/fnXzKwUgDhg?si=2_nE0qW10b-xE22D",
         "title": "Transformers 2",
         "fullTitle": "Transformers: Revenge of the Fallen",
@@ -394,9 +394,9 @@
 
       {
         "_id": 1998,
-        "titleImg": "https://drive.google.com/uc?id=1Np_gWv6zNCLdY47VGgdLwsi2gNA_fPpm",
-        "bgImg": "https://drive.google.com/uc?id=1rcWU0EupULBcFOs2-UO7zhZBqEV6untE",
-        "previewImg": "https://drive.google.com/uc?id=1kf1qMZY8L6tplpFHY9xllXw2ebrYMgqO",
+        "titleImg": "https://wowmovie-server.netlify.app/images/transformer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/transformer%203%20bg.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/transformer%203.jpg",
         "video": "https://www.youtube.com/embed/wR-CovQuK0c?si=Ro2TOfUsVUyHp_4N",
         "title": "Transformers 3",
         "fullTitle": "Transformers: Dark of the Moon",
@@ -416,9 +416,9 @@
 
       {
         "_id": 1997,
-        "titleImg": "https://drive.google.com/uc?id=1Np_gWv6zNCLdY47VGgdLwsi2gNA_fPpm",
-        "bgImg": "https://drive.google.com/uc?id=1v8Ul8A--_f4tPFEKU7ZWRJbwD97KcOWr",
-        "previewImg": "https://drive.google.com/uc?id=1razQyzZacRmM9ZyehrKGH7SQmItbyPLH",
+        "titleImg": "https://wowmovie-server.netlify.app/images/transformer-title.png",
+        "bgImg": "https://wowmovie-server.netlify.app/images/transformer%204%20bg.jpg",
+        "previewImg": "https://wowmovie-server.netlify.app/images/transformer%204.jpg",
         "video": "https://www.youtube.com/embed/T9bQCAWahLk?si=MtmT67axzr3KQsGK",
         "title": "Transformers 4",
         "fullTitle": "Transformers: Age of Extinction",
